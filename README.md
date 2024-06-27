@@ -1,6 +1,6 @@
-# ryankbr.github.io
+# blakemartin.us
 
-my personal website: https://ryankbr.github.io/
+My Personal Website
 
 built using:
 - html & css
